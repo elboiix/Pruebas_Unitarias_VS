@@ -1,0 +1,9 @@
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\bin\Debug\gestionBancariaApp.exe.config
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\bin\Debug\gestionBancariaApp.exe
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\bin\Debug\gestionBancariaApp.pdb
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\obj\Debug\gestionBancariaApp.csproj.AssemblyReference.cache
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\obj\Debug\gestionBancariaApp.Properties.Resources.resources
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\obj\Debug\gestionBancariaApp.csproj.GenerateResource.cache
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\obj\Debug\gestionBancariaApp.csproj.CoreCompileInputs.cache
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\obj\Debug\gestionBancariaApp.exe
+C:\Users\ITSAD\Source\Repos\Pruebas_Unitarias_VS\gestionBancariaApp\obj\Debug\gestionBancariaApp.pdb
